@@ -7,3 +7,4 @@ several files with python snipets
 4.  replace.py -> replace strings or single chars in a text file and save it to a new file
 5.  videotoframe.py -> creates single frames from a video
 6. train_test_split.py -> split a dataset in training and testing subset
+7. Image_Rotation.py -> rotate images in steps and save it with rotated label coordinates
